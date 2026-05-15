@@ -1,4 +1,4 @@
-My first projec, i want to trac my changes using Git software
+My first project, I want to track my changes using Git software
 
 
 
