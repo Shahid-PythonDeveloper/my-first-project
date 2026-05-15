@@ -7,9 +7,8 @@ my name is shahid and i am the Student of BS.IT
 
 
 
-Zeeshan Bahi is the great person
 
 
 
 
-saad is good person
+
